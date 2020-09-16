@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Embedded System Security, TEE, Blockchain and more.
 - 🌱 I’m currently learning C/C++, Trusted Applications.
 - 🎓 I graduated from Washington University in St. Louis.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Blockchain and Digital Currency
 - 📫 How to reach me: Li.z@wustl.edu
 <!-- - 😄 Pronouns: ...
