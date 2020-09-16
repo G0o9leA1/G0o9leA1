@@ -83,9 +83,5 @@ C                        1 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://github.com/G0o9leA1/G0o9leA1/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
