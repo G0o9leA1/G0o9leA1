@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  > 
 > 📦 52.6 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories
  > 
