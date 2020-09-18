@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Li.z@wustl.edu
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114065%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113505%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -56,7 +56,8 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Markdown                 45 mins             ████████████████████░░░░░   80.58% 
-YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.42%
+YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 VS Code                  56 mins             █████████████████████████   100.0%
