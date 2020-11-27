@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
+> 🏆 79 Contributions in the Year 2020
+ > 
 > 📦 53.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
