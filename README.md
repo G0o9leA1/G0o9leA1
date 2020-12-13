@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > 🏆 79 Contributions in the Year 2020
  > 
-> 📦 53.3 kB Used in Github's Storage 
+> 📦 53.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
