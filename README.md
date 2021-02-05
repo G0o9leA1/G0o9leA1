@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56730%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40608%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 1 Contributions in the Year 2021
  > 
-> 📦 53.4 kB Used in Github's Storage 
+> 📦 51.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -70,11 +70,11 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
