@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
