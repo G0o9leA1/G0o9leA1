@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > 🏆 4 Contributions in the Year 2021
  > 
-> 📦 53.7 kB Used in GitHub's Storage 
+> 📦 65.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,5 +80,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
