@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Li.z@wustl.edu
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 66.2 kB Used in GitHub's Storage 
+> 📦 66.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2022 16:09:35 UTC
+ Last Updated on 04/03/2022 16:12:49 UTC
 <!--END_SECTION:waka-->
