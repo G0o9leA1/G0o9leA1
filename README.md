@@ -14,22 +14,23 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 2 contributions in 2022
-
-📦 68.0 kB used in GitHub's storage 
-
-📜 10 Public Repositories 
-
-🔑 11 Private Repositories  
+> 🏆 2 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 68.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 🌙 Night      2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
-📅 **I'm most productive on Saturday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -52,7 +53,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -68,7 +69,7 @@ No Activity Tracked This Week
 
 ```
 
-**💻 I mostly code in C++** 
+**I Mostly Code in C++** 
 
 ```text
 C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
@@ -81,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:12:46 UTC
+ Last Updated on 12/06/2022 08:16:34 UTC
 <!--END_SECTION:waka-->
