@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Li.z@wustl.edu
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,6 +30,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    5 commits      ██████████░░░░░░░░░░░░░░░   41.67% 
+🌃 Evening    3 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌙 Night      2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    4 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
+Thursday     2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Saturday     5 commits      ██████████░░░░░░░░░░░░░░░   41.67% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -43,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 08:11:41 UTC
+ Last Updated on 04/09/2022 08:17:43 UTC
 <!--END_SECTION:waka-->
