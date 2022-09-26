@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
+> 🏆 2 Contributions in the Year 2022
+ > 
 > 📦 71.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -80,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 03:59:08 UTC
+ Last Updated on 26/09/2022 04:03:30 UTC
 <!--END_SECTION:waka-->
