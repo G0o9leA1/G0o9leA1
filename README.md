@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,5 +82,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 20:28:12 UTC
+ Last Updated on 16/02/2023 22:05:23 UTC
 <!--END_SECTION:waka-->
